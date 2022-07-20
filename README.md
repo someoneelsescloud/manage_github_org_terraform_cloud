@@ -1,4 +1,4 @@
-# Managing GitHub Organisation with Terraform Cloud
+# Manage GitHub Organisation with Terraform Cloud
 
 <a href="https://youtu.be/TWNgWVKTDmM">![Managing GitHub Organisation with Terraform Cloud](https://images.squarespace-cdn.com/content/5f4f7564ee0b1d1076f33d3d/1657781719695-SFL9IJN6RGVSLFJ8P048/thumbnail_github_org_v3.jpg)</a>
 
