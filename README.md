@@ -1,6 +1,6 @@
 # Managing GitHub Organisation with Terraform Cloud
 
-[Managing GitHub Organisation with Terraform Cloud](https://youtu.be/TWNgWVKTDmM)
+<a href="https://youtu.be/TWNgWVKTDmM">![Managing GitHub Organisation with Terraform Cloud](https://images.squarespace-cdn.com/content/5f4f7564ee0b1d1076f33d3d/1657781719695-SFL9IJN6RGVSLFJ8P048/thumbnail_github_org_v3.jpg)</a>
 
 In this video, I'll show you how to manage your github organisation with Terraform Cloud, scenarios on how to structure your repositories, using templates to standardise deployments and controls and guardrails to protect you from issues.
 
